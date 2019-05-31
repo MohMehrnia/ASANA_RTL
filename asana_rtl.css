@@ -1,0 +1,25 @@
+.TaskName-shadow, .TaskName-input{
+	direction: rtl;
+}
+
+.TaskRow.ItemRow--enabled:not(.ItemRow--focused):not(.ItemRow--highlighted){
+	direction: rtl;
+}
+.TaskList{
+	direction:rtl;
+}
+.TruncatedRichText{
+	direction: rtl;
+}
+
+.textEditor-container .ql-editor{
+	direction: rtl;
+}
+
+.TaskRowCompletionStatus-checkbox--withoutEmptyCheckCircleExperiment.TaskRowCompletionStatus-checkbox--incomplete{
+	margin-left:5px;
+}
+
+.SingleTaskTitleInput-taskName .autogrowTextarea-input, .SingleTaskTitleInput-taskName .autogrowTextarea-shadow{
+	direction: rtl;
+}
