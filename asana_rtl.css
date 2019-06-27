@@ -20,6 +20,45 @@
 	margin-left:5px;
 }
 
-.SingleTaskTitleInput-taskName .autogrowTextarea-input, .SingleTaskTitleInput-taskName .autogrowTextarea-shadow{
+.SingleTaskTitleInput-taskName .autogrowTextarea-input, .SingleTaskTitleInput-taskName .autogrowTextarea-shadow
+{
+	direction: rtl;
+}
+
+.MiniStatusUpdateCard-header{
+	direction:rtl
+}
+.MiniStatusUpdateCard-body{
+	direction:rtl
+}
+.ProjectPageHeader-projectName{
+	direction: rtl;	
+}
+.textInput.textInput--large{
+	direction: rtl;
+}
+.textEditor-container, .textEditor-container .quill-container
+{
+	direction: rtl;
+}
+.TaskProjectPill-projectName{
+	direction: rtl;
+}
+.MiniStoryActionSentence{
+	direction: rtl;
+}
+.Token-label{
+	direction:rtl;
+}
+.TaskAncestry-ancestorProject{
+	direction: rtl;
+}
+.PotPillsContainer-potPillLink:first-child{
+	direction: rtl;
+}
+.TileStructure-name{
+	direction: rtl;	
+}
+.MultilineRowMetadataStructure-title{
 	direction: rtl;
 }
